@@ -161,8 +161,20 @@ img {
         flex-wrap: wrap;
     }
 
+
+    /* E QUI SOTTO PER DARE SFONDO GRIGIO 34,34,34,255 ALL'ULTIMA SECTION SOVRASCRIVENDO CSS SOPRA */
+
+    .why-us {
+        background-color: rgba(34,34,34,255);
+        margin-bottom: 0;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+
+    .steps {
+        margin-bottom: 0;
+    }
 }
 
 
 
-/* BACKGROUND COLOR GRIGIO DA FIXARE */
